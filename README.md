@@ -18,6 +18,6 @@ You can explore, fork and contribute to this repository. Feedback, suggestions a
 
 ### What I´m Learning
 
-Develop key habilities to explore and extract useful data from Relational Databases
+Developing key habilities to explore and extract useful data from Relational Databases
 Data analysis using SQL Server
 SQL Functions, CTEs, Query Tuning
